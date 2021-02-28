@@ -88,8 +88,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 An application of this type is meant for use within an intranet portal rather than a public domain despite the data manipulated being considered non-sensitive. Employees' full name, contact information and photo may be available via professional network services online at their discretion but is totally independent of the directory held within their company/organization for internal use.
 
+PLEASE NOTE: At present time this app doesn't contain any data storage code so the list of users generated is new every time the app is launched or refreshed.
+
 ## Sample of Application in Use
 ![Sample](public/emp_directory-example.png)
+
+A deployed sample of this app is hosted at https://github.com/hector-gm/employee_directory_v2.0
 
 ## Technologies Used
 
