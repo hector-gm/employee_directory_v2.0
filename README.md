@@ -93,7 +93,7 @@ PLEASE NOTE: At present time this app doesn't contain any data storage code so t
 ## Sample of Application in Use
 ![Sample](public/emp_directory-example.png)
 
-A deployed sample of this app is hosted at https://github.com/hector-gm/employee_directory_v2.0
+A deployed sample of this app is hosted at https://employee-directory-v2.herokuapp.com/
 
 ## Technologies Used
 
